@@ -73,6 +73,7 @@ section{
 @media (max-width: 600px) {
 	.imgs{
 		    flex-flow: column;
+			    align-items: center;
 	}
 	.imgs img{
 	width: 60px;
