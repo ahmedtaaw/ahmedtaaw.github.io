@@ -68,3 +68,13 @@ section{
 .scroller section {
     scroll-snap-align: start;
 }
+
+/*media queries*/
+@media (max-width: 600px) {
+	.img{
+		    flex-flow: column;
+	}
+	.imgs img{
+	width: 60px;
+	}
+}
