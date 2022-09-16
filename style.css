@@ -13,6 +13,8 @@ section{
     place-items: center;
     align-content: center;
     min-height: 100vh;
+	text-align: center;
+    padding: 0 25px;
 }
 
 /*hidden and show transitions*/
