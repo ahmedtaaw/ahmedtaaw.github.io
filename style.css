@@ -71,7 +71,7 @@ section{
 
 /*media queries*/
 @media (max-width: 600px) {
-	.img{
+	.imgs{
 		    flex-flow: column;
 	}
 	.imgs img{
